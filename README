@@ -12,7 +12,11 @@ Task
     6. Switch to 'second' branch and append 'Hi <your-name>' in default.txt
     7. merge main and second branch
     8. merge main and 'third' branch, fix conflicts if any. (you can use vscode editor for fix merge conflict)
+    9. create another 'fourth' from main branch and edit <name>.txt and commit
+    10. pull the change that you made on 'fourth' branch by using cherry-pick
 
+
+Document all the commands that you used this task and add to README file
 
 
     
