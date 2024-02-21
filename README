@@ -11,7 +11,7 @@ Task
     5. append 'Hello Sethu' to default.txt file in 'third' branch then commit and push
     6. Switch to 'second' branch and append 'Hi <your-name>' in default.txt
     7. merge main and second branch
-    8. merge main and 'third' branch, fix conflicts if any. (use can use vscode editor for fix merge conflict)
+    8. merge main and 'third' branch, fix conflicts if any. (you can use vscode editor for fix merge conflict)
 
 
 
