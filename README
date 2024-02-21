@@ -1,0 +1,22 @@
+Prerequisites
+Golang:  for local development
+editor:  for code editing
+ 
+
+Task
+    1. Fork this git repository.
+    2. create new branch (branch name : second) from main (using cli command).
+    3. add new file (filename second.txt) in newly created branch and push.
+    4. create another branch from main branch (branch name : third), 
+    5. append 'Hello Sethu' to default.txt file then commit and push
+    6. Switch to 'second' branch and append 'Hi <your-name>' in default.txt
+    7. Switch to 'main' branch and pull 'second' branch to main.
+    8. merge main and 'third' branch, fix conflict if any.
+
+
+final default.txt 
+
+    Hi, Good Evening
+    Hi <your-name>
+    Hello Sethu
+    
