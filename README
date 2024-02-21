@@ -8,7 +8,7 @@ Task
     2. create new branch (branch name : second) from main (using cli command).
     3. add new file (filename <name>.txt) in newly created branch and push.
     4. create another branch from main branch (branch name : third), 
-    5. append 'Hello Sethu' to default.txt file in 'thrid' branch then commit and push
+    5. append 'Hello Sethu' to default.txt file in 'third' branch then commit and push
     6. Switch to 'second' branch and append 'Hi <your-name>' in default.txt
     7. merge main and second branch
     8. merge main and 'third' branch, fix conflicts if any. (use can use vscode editor for fix merge conflict)
